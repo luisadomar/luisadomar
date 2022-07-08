@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello / Olá 
 
 - 🔭 I’m currently working on making the world a better place than I found it!
 - 🌱 I’m currently learning how to build their iOS applications and sewing
