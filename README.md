@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on making the world a better place than I found it!
+- 🌱 I’m currently learning how to build their iOS applications and sewing
+- 🤔 I’m looking for help with how to improve and get better
+- 📫 How to reach me: luisadomar@gmail.com
+- ⚡ Fun fact: I'm currently taking my Masters and it has nothing to do with this area so I'm a self-taught developer :)
+
 <!--
-**luisadomar/luisadomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
