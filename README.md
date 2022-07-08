@@ -1,10 +1,18 @@
-### Hello / Olá 
+### Hellooooooooooooooo
 
-- 🔭 I’m currently working on making the world a better place than I found it!
-- 🌱 I’m currently learning how to build their iOS applications and sewing
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="200"/>
+</div>
+
+- 📚 Working on my thesis about people with Intelectual Disability and their right to vote while being a self-taught developer!
+- 💭 I love math, programming and books
+- ⚜️ Scout for more than 16 yrs
+- 🌍 I’m currently working on making the world a better place than I found it!
+- 🌱 Learning how to improve my portofolio and ... sewing
 - 🤔 I’m looking for help with how to improve and get better
-- 📫 How to reach me: luisadomar@gmail.com
-- ⚡ Fun fact: I'm currently taking my Masters and it has nothing to do with this area so I'm a self-taught developer :)
+- 📫 How to find me: 
+  - :office: [LinkedIn](https://www.linkedin.com/in/lu%C3%ADsa-mar-ventura/)
+
 
 <!--
 
